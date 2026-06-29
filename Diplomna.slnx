@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Diplomna/Diplomna.vcxproj" Id="7e9aa9b9-205f-483d-8b8a-8e1d91175f64" />
+</Solution>
